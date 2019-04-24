@@ -1,0 +1,10 @@
+
+__pycache__/
+*.py[cod]
+
+temp/
+
+config.py
+client_secret_*.json
+
+!gitinclude
