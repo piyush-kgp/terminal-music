@@ -26,7 +26,7 @@ python3 main.py
 
 Bonus: Add this line to your `~/.bashrc`(Ubuntu) or `~/.bash_profile`(MacOS) to be able to run this from anywhere:
 ```
-export music="cd $location/terminal-music && python3 main.py"
+alias music="cd $location/terminal-music && python3 main.py"
 ```
 
 Replace `$location` with your actual location where you cloned this repo.
